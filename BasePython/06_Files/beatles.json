@@ -1,0 +1,33 @@
+{
+"response": {
+"count": 1887,
+"items": [{
+"id": 6371899,
+"name": "THE BEATLES - FOREVER!",
+"screen_name": "beatles_club",
+"is_closed": 0,
+"type": "group",
+"photo_50": "https://sun1-20.u...3,738,738&ava=1",
+"photo_100": "https://sun1-20.u...3,738,738&ava=1",
+"photo_200": "https://sun1-20.u...3,738,738&ava=1"
+}, {
+"id": 215768100,
+"name": "The Beatles Festival / 8 октября / Артист Hall",
+"screen_name": "beatlesfest2022",
+"is_closed": 0,
+"type": "event",
+"photo_50": "https://sun1-90.u...1080,1080&ava=1",
+"photo_100": "https://sun1-90.u...1080,1080&ava=1",
+"photo_200": "https://sun1-90.u...1080,1080&ava=1"
+}, {
+"id": 216547069,
+"name": "22 октября|The Beatles в исполнении The BeatBoys",
+"screen_name": "club216547069",
+"is_closed": 0,
+"type": "event",
+"photo_50": "https://sun1-86.u...1527,1527&ava=1",
+"photo_100": "https://sun1-86.u...1527,1527&ava=1",
+"photo_200": "https://sun1-86.u...1527,1527&ava=1"
+}]
+}
+}
